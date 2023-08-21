@@ -1,5 +1,6 @@
 # CS-230
 SNHU submission for CS-230
+
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The Gaming Room as a client requested their game for Android, Draw It or Lose It, to be developed for croos-platform. The application needed to a web-based solution. Requirements included multiple unique teams, real-time rendering, singleton instance of the game, and setting up the environment for design and development.  
 
